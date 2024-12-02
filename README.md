@@ -12,7 +12,7 @@ I'm a Computer Science student specializing in Data Analysis and Machine Learnin
   
 ### 🧐 More About Me:
 
-- 🎓 &nbsp; ’m currently studying Informatics at the Hang Tuah Pekanbaru University.
+- 🎓 &nbsp; I’m currently studying Informatics at the Hang Tuah Pekanbaru University.
 - 🚀 &nbsp; I’m currently improving my skills and exploring
 - 🤝 &nbsp; I’m looking to collaborate on machine learning or data analysis projects
 - 💻 &nbsp; Most of my projects are available on [Github](https://github.com/KemasMhd?tab=repositories)
