@@ -8,7 +8,7 @@ I'm a Computer Science student specializing in Data Analysis and Machine Learnin
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QxanZzNHYxcHNjdjdidHB4bW52b251Z2lkaWd3c25wam41c3puMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320px"/>
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2QxanZzNHYxcHNjdjdidHB4bW52b251Z2lkaWd3c25wam41c3puMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="310px"/>
   
 ### 🧐 More About Me:
 
